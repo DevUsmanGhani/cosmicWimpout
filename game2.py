@@ -1,7 +1,4 @@
-#This program creates the dice game "Cosmic Wimpout"
-#Usman Ghani
-#11/1/17
-#CS103 Lab 11
+
 
 from random import *
 from collections import *
